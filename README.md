@@ -1,4 +1,4 @@
-# End-to-End_Data_Analysis
+# End-to-End_Data_Analysis_Workflow
 
 The following project illustrates an Gen AI induced End-to-End data analysis pipeline starting from data preprocessing to presenting PPT summaries to stake holders. It consists of following aspects :
 
